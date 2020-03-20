@@ -1,0 +1,145 @@
+@media(max-width:575px){  					 /* XS part*/
+
+
+.navbar-nav{
+	
+	margin-left: 10px;
+}
+.nav-item{
+	padding: 5px;	
+}
+.nav-item .nav-link img{
+	height: 155px;
+	width:20px; 
+	padding-bottom: 0px; 	
+}
+.header-text h4{
+	font-size: 20px;
+	letter-spacing: 1.5px;
+	 
+}
+.header-text p{
+	font-size: 10px;
+	letter-spacing: 1.3px;
+	margin-left:10px;
+
+}
+.btn-custom1{	
+	margin-left: 20px;
+}
+.header-icon{
+	position: absolute;
+	bottom:0%;
+	left: 37%;
+}
+.fa-angle-right{
+	float: right;
+	margin-right: 10px;
+}
+.form-control{
+	width: 180px;
+}
+.download-text p{
+	width:380px; 	
+	font-size: 14px;
+	margin:0px 10px; 
+	
+}
+.footer-menu p{
+	font-size:12px; 
+	padding: 0px 14px;
+}
+
+.footer-images img{
+	float: left;
+}
+
+}
+
+@media (min-width:576px) and (max-width: 767px)  /* SM part  */
+{
+
+.navbar-nav{
+	
+	margin-left: 20px;
+}
+.nav-item{
+	padding: 5px;	
+}
+.nav-item .nav-link img{
+	height: 155px;
+	width:20px; 
+	padding-bottom: 0px; 	
+}
+.header-text h4{
+	font-size: 26px;
+	letter-spacing: 1.5px;
+	 
+}
+.header-text p{
+	font-size: 14px;
+	letter-spacing: 1.3px;
+	margin-left:10px;
+
+}
+.btn-custom1{	
+	margin-left: 40px;
+}
+
+.portfolio-part h5{
+	
+	font-size: 16px;
+	
+}
+.portfolio-part p{
+	width: 160px;
+	font-size: 10px;
+	
+	margin-left: 0px;
+}
+.header-icon{
+	position: absolute;
+	bottom:0%;
+	left: 40%;
+}
+
+.download-text p{
+	width:500px; 	
+	font-size: 16px;
+	margin:0px 20px; 
+	
+}
+}
+@media(min-width: 768px) and (max-width: 991px)  
+{
+
+
+.navbar-nav{
+	 margin: 25px; 
+	 margin-left: 50px; 
+
+}
+
+.portfolio-part h5{
+	
+	font-size: 16px;
+	
+}
+.portfolio-part p{
+	width: 200px;
+	font-size: 10px;
+	
+	margin-left: 0px;
+}
+
+.download-text p{
+	width:650px; 	
+	font-size: 16px;
+	margin:0px 20px; 
+	
+}
+
+
+
+
+	}
